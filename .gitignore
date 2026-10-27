@@ -1,6 +1,13 @@
 .DS_Store
+Thumbs.db
+desktop.ini
 power_bi_visualization vidoes/palette_*.png
 .venv/
+env/
+venv/
 __pycache__/
 *.pyc
-Data
+.ipynb_checkpoints/
+
+# Ignore all raw dataset files in Data folder except the preprocessed modified_daata.csv
+Data/*
