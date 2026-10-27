@@ -3,4 +3,4 @@ power_bi_visualization vidoes/palette_*.png
 .venv/
 __pycache__/
 *.pyc
-Data/Monday/Monday
+Data
