@@ -12,3 +12,5 @@ __pycache__/
 # Ignore all raw dataset files in Data folder except the preprocessed modified_daata.csv
 Data/*
 Packages and Models/*
+images/*
+Python File/images*
